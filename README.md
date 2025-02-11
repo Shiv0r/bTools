@@ -5,6 +5,7 @@ PathChanger streamlines the tedious process of updating file paths after upgradi
 
 You can find PathChanger in the N-Panel under Tool.
 Enter the full Blender version you are currently using (e.g., 4.2.0) and click "Change Paths".
+
 PathChanger only works if Blender is installed in C:\Program Files\Blender
 
 # Meshize
